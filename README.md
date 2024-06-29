@@ -7,6 +7,15 @@ This custom mapper is based on [`UserAttributeMapper.java`](https://github.com/k
 - Groups
 - Roles associated with Groups
 
+
+## How to install
+
+1. You must compile and generate the jar file of the `keycloak-extensions.protocol` module.
+2. Put the generated jar file in your Keycloak provider folder and restart the server.
+
+You can see a more detailed instructions on the [official Keycloak documentation](https://www.keycloak.org/server/configuration-provider)
+
+
 ## How to use
 
 ### Step 1: Create a client scope
