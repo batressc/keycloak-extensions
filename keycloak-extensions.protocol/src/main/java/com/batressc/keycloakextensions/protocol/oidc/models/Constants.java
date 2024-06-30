@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.batressc.keycloakextensions.protocol.models;
+package com.batressc.keycloakextensions.protocol.oidc.models;
 
 public final class Constants {
     private Constants() {

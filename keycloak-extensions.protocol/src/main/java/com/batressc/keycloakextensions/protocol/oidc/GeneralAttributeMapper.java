@@ -14,10 +14,10 @@
  * limitations under the License.
  */
 
-package com.batressc.keycloakextensions.protocol;
+package com.batressc.keycloakextensions.protocol.oidc;
 
-import com.batressc.keycloakextensions.protocol.models.Constants;
-import com.batressc.keycloakextensions.protocol.models.MapperConfiguration;
+import com.batressc.keycloakextensions.protocol.oidc.models.Constants;
+import com.batressc.keycloakextensions.protocol.oidc.models.MapperConfiguration;
 import org.keycloak.models.AuthenticatedClientSessionModel;
 import org.keycloak.models.ClientModel;
 import org.keycloak.models.ClientSessionContext;
